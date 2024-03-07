@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_report"
+        android:title="Report"/>
+    <item android:id="@+id/action_block"
+        android:title="Block"/>
+    <item android:id="@+id/action_show_qr"
+        android:title="Show QR Code"/>
+    <item android:id="@+id/action_copy_url"
+        android:title="Copy profile URL"/>
+    <item android:id="@+id/action_share"
+        android:title="Share this profile"/>
+    <item android:id="@+id/action_notification"
+        android:title="Notification"
+        android:icon="@drawable/baseline_notifications_none_24"
+        android:showAsAction="ifRoom"/>
+</menu>
